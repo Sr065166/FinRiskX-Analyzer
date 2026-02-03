@@ -51,7 +51,7 @@ Writing production-level README
 👨‍💻 Author
 
 Sahil Raj
-B.Tech | Aspiring Data Analyst / ML Engineer
+B.Tech | Final Year
 
 
 📜 License
